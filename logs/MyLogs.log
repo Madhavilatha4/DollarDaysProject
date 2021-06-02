@@ -4323,3 +4323,26 @@
 [WARN ] 2021-06-02 15:20:49.057 [main] Baseclass - Provide wishList name
 [INFO ] 2021-06-02 15:20:49.058 [main] Baseclass - Test pass
 [INFO ] 2021-06-02 15:20:49.059 [main] Baseclass - Closing the Browser
+[INFO ] 2021-06-02 16:04:28.401 [main] Baseclass - Open Chrome Browser
+[INFO ] 2021-06-02 16:04:31.349 [main] Baseclass - Opening the Browser
+[INFO ] 2021-06-02 16:04:35.744 [main] Baseclass - Navigate to the Browser
+[INFO ] 2021-06-02 16:04:36.082 [main] Baseclass - Clicking signin
+[INFO ] 2021-06-02 16:04:39.253 [main] Baseclass - Clicking DropDown Signin
+[INFO ] 2021-06-02 16:04:39.489 [main] Baseclass - username provided
+[INFO ] 2021-06-02 16:04:40.672 [main] Baseclass - password provided
+[INFO ] 2021-06-02 16:04:43.555 [main] Baseclass - Clicking Sign in
+[INFO ] 2021-06-02 16:04:46.824 [main] Baseclass - Enter item name in searchbox
+[INFO ] 2021-06-02 16:04:52.039 [main] Baseclass - click searchbutton
+[INFO ] 2021-06-02 16:04:56.757 [main] Baseclass - Clicking the image
+[INFO ] 2021-06-02 16:04:59.200 [main] Baseclass - Enter no.of Quantity
+[INFO ] 2021-06-02 16:05:01.478 [main] Baseclass - Click addtocart
+[INFO ] 2021-06-02 16:05:04.607 [main] Baseclass - Test pass
+[INFO ] 2021-06-02 16:05:04.616 [main] Baseclass - Closing the Browser
+[INFO ] 2021-06-02 16:05:22.233 [main] Baseclass - Open Chrome Browser
+[INFO ] 2021-06-02 16:05:25.192 [main] Baseclass - Opening the Browser
+[INFO ] 2021-06-02 16:05:28.840 [main] Baseclass - clicking wishlist icon
+[INFO ] 2021-06-02 16:05:32.342 [main] Baseclass - clicking Learnmore icon
+[INFO ] 2021-06-02 16:05:32.482 [main] Baseclass - clicking search button
+[WARN ] 2021-06-02 16:05:35.529 [main] Baseclass - Provide wishList name
+[INFO ] 2021-06-02 16:05:35.529 [main] Baseclass - Test pass
+[INFO ] 2021-06-02 16:05:35.537 [main] Baseclass - Closing the Browser
