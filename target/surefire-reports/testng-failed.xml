@@ -14,20 +14,6 @@
           <include name="popuptest"/>
         </methods>
       </class> <!-- com.DollarDays.testcases.TC_PopUp_001 -->
-      <class name="com.DollarDays.testcases.TC_WishList_003">
-        <methods>
-          <include name="wishlistTest"/>
-          <include name="setUp"/>
-          <include name="Teardown"/>
-        </methods>
-      </class> <!-- com.DollarDays.testcases.TC_WishList_003 -->
-      <class name="com.DollarDays.testcases.TC_SiginTest">
-        <methods>
-          <include name="signinTestTC_DD04"/>
-          <include name="setUp"/>
-          <include name="Teardown"/>
-        </methods>
-      </class> <!-- com.DollarDays.testcases.TC_SiginTest -->
     </classes>
   </test> <!-- DollardaysTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -52,11 +52,11 @@ public class Baseclass {
 		}
 
 
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		logger.info("Opening the Browser");
 		driver.get(url);
 		driver.manage().window().maximize();
-		driver.manage().window().fullscreen();
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		driver.manage().deleteAllCookies();
 	}
 		@AfterMethod
 		public void Teardown() {
@@ -140,7 +140,7 @@ public class Baseclass {
 	Thread.sleep(1000);
 	sp.setvalue("121313914424905357375366935");
 	logger.info("Enter no.of Quantity");
-	Thread.sleep(1000);
+	Thread.sleep(2000);
 	sp.setaddtocart();
 	logger.info("Click addtocart");
 	Thread.sleep(1000);

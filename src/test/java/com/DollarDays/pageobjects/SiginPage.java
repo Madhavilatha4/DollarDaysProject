@@ -97,7 +97,7 @@ public class SiginPage {
 	@FindBy(xpath="//button[contains(text(),'Add to cart')]")
 	WebElement addtocart;
 	public void setaddtocart() {
-		addtocart.click();
+		addtocart.sendKeys(Keys.RETURN);
 	}
 	@FindBy(xpath="//div[contains(text(),'No quantity of products given to order.')]")
 	WebElement Alertmsg;

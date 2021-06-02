@@ -8,7 +8,6 @@ public class TC_SiginTest extends Baseclass{
 
 	@Test(priority=0)
 	public void signinTestTC_DD04() throws Exception {
-		driver.get(url);
 		SiginPage sp=new SiginPage(driver);
 		logger.info("Navigate to the Browser");
 		invokeDDsigin();
