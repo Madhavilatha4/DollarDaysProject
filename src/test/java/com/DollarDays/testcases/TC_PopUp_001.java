@@ -14,9 +14,11 @@ public class TC_PopUp_001 extends Baseclass {
 		Searchitem();
 		
 		String Actual=sp.setAlertmsg();
+		thread.sleep(1000);
 		String Expected= "No quantity of products given to order.";
 		System.out.println(Actual);
 		Assert.assertEquals(Expected, Actual,"Test Fail");
+		thread.sleep(1000);
 		logger.info("Test pass");
 	}
 }
